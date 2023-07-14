@@ -666,7 +666,7 @@ header{
     left: 6%;
     text-align: justify;
     width: 90%;
-    height: 90%;
+    height: 35rem;
     box-shadow: -13px 6px 20px rgba(182, 184, 182, .5);
 }
 .contenido:hover{
