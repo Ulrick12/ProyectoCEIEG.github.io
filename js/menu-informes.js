@@ -459,6 +459,13 @@ document.getElementById("selected6").addEventListener("click", cambio6);
     document.getElementById("selected8").addEventListener("click", cambio8);
     document.getElementById("selected9").addEventListener("click", cambio9);
     document.getElementById("selected10").addEventListener("click", cambio10);
+    document.getElementById("selected11").addEventListener("click", cambio11);
+    document.getElementById("selected12").addEventListener("click", cambio12);
+    document.getElementById("selected13").addEventListener("click", cambio13);
+    document.getElementById("selected14").addEventListener("click", cambio14);
+    document.getElementById("selected15").addEventListener("click", cambio15);
+    document.getElementById("selected16").addEventListener("click", cambio16);
+    document.getElementById("selected17").addEventListener("click", cambio17);
 
 var selected = document.getElementById("selected");
 var selected2 = document.getElementById("selected2");
@@ -471,6 +478,13 @@ var selected6 = document.getElementById("selected6");
     var selected8 = document.getElementById("selected8");
     var selected9 = document.getElementById("selected9");
     var selected10 = document.getElementById("selected10");
+    var selected11 = document.getElementById("selected11");
+    var selected12 = document.getElementById("selected12");
+    var selected13 = document.getElementById("selected13");
+    var selected14 = document.getElementById("selected14");
+    var selected15 = document.getElementById("selected15");
+    var selected16 = document.getElementById("selected16");
+    var selected17 = document.getElementById("selected17");
 
 function cambio(){
 	selected.classList.add("selected");
@@ -484,6 +498,13 @@ function cambio(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio2(){
 	selected.classList.remove("selected");
@@ -497,6 +518,13 @@ function cambio2(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio3(){
 	selected.classList.remove("selected");
@@ -510,6 +538,13 @@ function cambio3(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio4(){
 	selected.classList.remove("selected");
@@ -523,6 +558,13 @@ function cambio4(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio5(){
 	selected.classList.remove("selected");
@@ -536,6 +578,13 @@ function cambio5(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio6(){
 	selected.classList.remove("selected");
@@ -549,6 +598,13 @@ function cambio6(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 //Selected de los otroas opciones
 function cambio7(){
@@ -563,6 +619,13 @@ function cambio7(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio8(){
 	selected.classList.remove("selected");
@@ -576,6 +639,13 @@ function cambio8(){
     selected8.classList.add("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio9(){
 	selected.classList.remove("selected");
@@ -589,6 +659,13 @@ function cambio9(){
     selected8.classList.remove("selected");
 	selected9.classList.add("selected");
 	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
 }
 function cambio10(){
 	selected.classList.remove("selected");
@@ -602,6 +679,153 @@ function cambio10(){
     selected8.classList.remove("selected");
 	selected9.classList.remove("selected");
 	selected10.classList.add("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+}
+function cambio11(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.add("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+}
+function cambio12(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.add("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+}
+function cambio13(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.add("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+}
+function cambio14(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.add("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+}
+function cambio15(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.add("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+}
+function cambio16(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.add("selected");
+	selected17.classList.remove("selected");
+}
+function cambio17(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.add("selected");
 }
 
 
