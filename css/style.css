@@ -8,6 +8,16 @@
 a{
     text-decoration: none;
 }
+/* Pruebas footer abajo  */
+html{
+    min-height: 100%;
+    position: relative;
+}
+body{
+    margin: 0;
+  margin-bottom: 40px;
+}
+
 
 /* HEADER */
 header{
@@ -710,7 +720,8 @@ footer{
     height: 300px;
     padding: 20px 50px;
     display: flex;
-    margin-top: 50rem;
+    bottom: -60rem;
+    /*margin-top: 50rem;*/
     justify-content: center;
     align-items: center;
     flex-direction: column;
