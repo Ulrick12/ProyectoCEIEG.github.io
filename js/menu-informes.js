@@ -294,7 +294,7 @@ function mostrar13() {
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
     document.getElementById('o2015').style.display = 'none';
-    document.getElementById('p2015').style.display = 'none';
+    document.getElementById('p2015').style.display = 'block';
     document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
     document.getElementById('s2016').style.display = 'none';
