@@ -22,6 +22,7 @@ function mostrar1() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar2() {
     document.getElementById('por2023').style.display = 'none';
@@ -47,6 +48,7 @@ function mostrar2() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar3() {
     document.getElementById('por2023').style.display = 'none';
@@ -72,6 +74,7 @@ function mostrar3() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar4() {
     document.getElementById('por2023').style.display = 'none';
@@ -97,6 +100,7 @@ function mostrar4() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar5() {
     document.getElementById('por2023').style.display = 'none';
@@ -122,6 +126,7 @@ function mostrar5() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar6() {
     document.getElementById('por2023').style.display = 'none';
@@ -147,6 +152,7 @@ function mostrar6() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar7() {
     document.getElementById('por2023').style.display = 'none';
@@ -172,6 +178,7 @@ function mostrar7() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar8() {
     document.getElementById('por2023').style.display = 'none';
@@ -197,6 +204,7 @@ function mostrar8() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar9() {
     document.getElementById('por2023').style.display = 'none';
@@ -222,6 +230,7 @@ function mostrar9() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar9() {
     document.getElementById('por2023').style.display = 'none';
@@ -247,6 +256,7 @@ function mostrar9() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar10() {
     document.getElementById('por2023').style.display = 'none';
@@ -272,6 +282,7 @@ function mostrar10() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar11() {
     document.getElementById('por2023').style.display = 'none';
@@ -297,6 +308,7 @@ function mostrar11() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar12() {
     document.getElementById('por2023').style.display = 'none';
@@ -322,6 +334,7 @@ function mostrar12() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar13() {
     document.getElementById('por2023').style.display = 'none';
@@ -347,6 +360,7 @@ function mostrar13() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar14() {
     document.getElementById('por2023').style.display = 'none';
@@ -372,6 +386,7 @@ function mostrar14() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar15() {
     document.getElementById('por2023').style.display = 'none';
@@ -397,6 +412,7 @@ function mostrar15() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar16() {
     document.getElementById('por2023').style.display = 'none';
@@ -422,6 +438,7 @@ function mostrar16() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar17() {
     document.getElementById('por2023').style.display = 'none';
@@ -448,6 +465,7 @@ function mostrar17() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar18() {
     document.getElementById('por2023').style.display = 'none';
@@ -474,6 +492,7 @@ function mostrar18() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar19() {
     document.getElementById('por2023').style.display = 'none';
@@ -501,6 +520,7 @@ function mostrar19() {
     document.getElementById('pex2013').style.display = 'none';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar20() {
     document.getElementById('por2023').style.display = 'none';
@@ -527,6 +547,7 @@ function mostrar20() {
     document.getElementById('pex2013').style.display = 'block';
     document.getElementById('sor2012').style.display = 'none';
     document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
 }
 function mostrar21() {
     document.getElementById('por2023').style.display = 'none';
